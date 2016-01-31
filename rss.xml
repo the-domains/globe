@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Globe]]></title>
         <description><![CDATA[Globe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/globe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 01:22:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 01:24:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/globe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Glory and Beauty Productions</p>]]></description>
-            <link>undefined39f84fab-c350-48d2-8336-cec12d14c59c/index.html</link>
+            <link>https://thegrid.ai/globe/39f84fab-c350-48d2-8336-cec12d14c59c/index.html</link>
             <guid isPermaLink="false">39f84fab-c350-48d2-8336-cec12d14c59c</guid>
-            <pubDate>Sun, 31 Jan 2016 01:22:46 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 01:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
